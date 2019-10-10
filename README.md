@@ -10,7 +10,6 @@ LMDB wrapper for use with U++
 ```C++
 #include <Core/Core.h>
 #include <LmdbUpp/LmdbUpp.h>
-#include <Ficl/Ficl.h>
 
 using namespace Upp;
 
