@@ -1,0 +1,10 @@
+options(!MSC) -pthread;
+
+file
+	lmdb.h,
+	mdb.c,
+	midl.c,
+	LmdbUpp.cpp,
+	LmdbUpp.h,
+	midl.h;
+
