@@ -66,5 +66,5 @@ CONSOLE_APP_MAIN {
 * Support duplicate key indices
 * Support for some kind of string_view to prevent unnecessary copying
 * Consider this a very early WIP that has not been thoroughly tested. 
-* DO NOT USE THIS ON CRITICAL SYSTEMS. While LMDB is thoroughly battle-hardened, my interface is not. Do not use it on any data you can't afford to lose.
+* DO NOT USE THIS ON CRITICAL SYSTEMS. While LMDB is thoroughly battle-hardened, this wrapper is not. Do not use it on any data you can't afford to lose.
 
