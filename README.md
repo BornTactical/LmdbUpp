@@ -25,10 +25,10 @@ struct Test {
     String ToString() const {
         String out;
         out <<
-            "{\ntestString: " << testString <<
+            "\ntestString: " << testString <<
             "\ntestVector: "  << testVector <<
             "\ntestInt: "     << testInt <<
-            "\n}\n";
+            "\n\n";
         return out;
     }
 };
