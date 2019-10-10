@@ -63,6 +63,7 @@ CONSOLE_APP_MAIN {
 # TODO
 
 * Improved cursor support
+* Support duplicate key indices
 * Support for some kind of string_view to prevent unnecessary copying
 * Consider this a very early WIP that has not been thoroughly tested. 
 * DO NOT USE THIS ON CRITICAL SYSTEMS
